@@ -1,4 +1,4 @@
 server:
   port: 8081
 build:
-  version: 3.0
+  version: 8.0
