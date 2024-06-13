@@ -1,4 +1,0 @@
-server:
-  port: 8081
-build:
-  version: 10.8
